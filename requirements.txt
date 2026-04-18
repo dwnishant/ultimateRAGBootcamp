@@ -1,0 +1,31 @@
+chromadb # vector database for storing and querying embeddings
+docx2txt # for extracting text from .docx files
+faiss-cpu # for efficient similarity search and clustering of dense vectors
+jq # for processing JSON data in the command line
+
+langchain # langchain core library for building language model applications
+langchain-community # community extensions for langchain
+langchain-groq # integration with Groq's language model
+langchain-openai # integration with OpenAI's language model
+
+matplotlib # for data visualization
+nltk # for natural language processing tasks
+openpyxl # for reading and writing Excel files
+pandas # for data manipulation and analysis
+pdfminer # for extracting text from PDF files
+pymupdf # for working with PDF files, including text extraction and manipulation
+pypdf # for working with PDF files, including text extraction and manipulation
+python-docx # for creating and updating Microsoft Word (.docx) files
+python-dotenv # for loading environment variables from a .env file
+sentence-transformers # for generating sentence embeddings
+tiktoken # for tokenization and encoding of text for language models
+unstructured # for extracting structured data from unstructured documents, such as PDFs
+
+## Embeddings
+langchain-huggingface # integration with Hugging Face's transformers library for generating embeddings
+openai # integration with OpenAI's language model
+sentence-transformers # for generating sentence embeddings using pre-trained models
+langchain-experimental # experimental features and integrations for langchain
+rank_bm25 # for ranking documents based on BM25 algorithm
+wikipedia # for accessing Wikipedia data and generating embeddings from it
+langgraph # for building and querying knowledge graphs from text data

@@ -1,7 +1,7 @@
 chromadb # vector database for storing and querying embeddings
 docx2txt # for extracting text from .docx files
 faiss-cpu # for efficient similarity search and clustering of dense vectors
-jq # for processing JSON data in the command line
+jq # for processing JSON data
 
 langchain # langchain core library for building language model applications
 langchain-community # community extensions for langchain

@@ -22,6 +22,7 @@ python-dotenv # for loading environment variables from a .env file
 sentence-transformers # for generating sentence embeddings
 tiktoken # for tokenization and encoding of text for language models
 unstructured[docx] # for extracting structured data from unstructured documents, such as PDFs
+msoffcrypto-tool # for handling encrypted Microsoft Office files
 
 ## Embeddings
 langchain-huggingface # integration with Hugging Face's transformers library for generating embeddings

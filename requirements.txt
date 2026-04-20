@@ -12,14 +12,16 @@ matplotlib # for data visualization
 nltk # for natural language processing tasks
 openpyxl # for reading and writing Excel files
 pandas # for data manipulation and analysis
+
 pdfminer # for extracting text from PDF files
 pymupdf # for working with PDF files, including text extraction and manipulation
 pypdf # for working with PDF files, including text extraction and manipulation
 python-docx # for creating and updating Microsoft Word (.docx) files
+
 python-dotenv # for loading environment variables from a .env file
 sentence-transformers # for generating sentence embeddings
 tiktoken # for tokenization and encoding of text for language models
-unstructured # for extracting structured data from unstructured documents, such as PDFs
+unstructured[docx] # for extracting structured data from unstructured documents, such as PDFs
 
 ## Embeddings
 langchain-huggingface # integration with Hugging Face's transformers library for generating embeddings

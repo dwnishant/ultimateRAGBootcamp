@@ -33,3 +33,8 @@ dependencies = [
     "unstructured[docx]>=0.22.21",
     "wikipedia>=1.4.0",
 ]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.2.0",
+]
